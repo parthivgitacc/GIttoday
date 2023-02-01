@@ -15,7 +15,7 @@ public class JavaProg {
 	    int number = input.nextInt();
 	    int reverse = 0;
 	    int originalNumber = number;
-	    
+	    System.out.println("GIT Push");
 	    while (number != 0) {
 	      int lastDigit = number % 10;
 	      reverse = (reverse * 10) + lastDigit;
