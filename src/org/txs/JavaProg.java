@@ -26,6 +26,7 @@ public class JavaProg {
 	      System.out.println(originalNumber + " is a reverse of " + reverse);
 	    } else {
 	      System.out.println(originalNumber + " is not a reverse of " + reverse);
+	      System.out.println("program");
 	    }
 	  }
 	}
